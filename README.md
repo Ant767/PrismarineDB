@@ -2,7 +2,7 @@
 
 ![repository-open-graph-template(3)(1)](https://github.com/Azalea-Essentials/PrismarineDB/assets/122332042/32ba8402-0c51-47ff-b2af-88d29519b8b5)
 
-</div
+</div>
 
 ## About
 
