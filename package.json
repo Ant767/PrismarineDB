@@ -1,6 +1,6 @@
 {
   "name": "bedrock-prismarinedb",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "Minecraft Bedrock document database",
   "main": "prismarine-db.js",
   "scripts": {
