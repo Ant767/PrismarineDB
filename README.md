@@ -6,7 +6,7 @@
 
 ## About
 
-PrismarineDB is a database designed to feel similar to [mongoose](https://npmjs.com/package/mongoose). Instead of being a key-value database like most MCBE databases, it uses documents like what MongoDB does.
+PrismarineDB is a minecraft bedrock database designed to feel similar to something like [mongoose](https://npmjs.com/package/mongoose). Instead of being a key-value database like most MCBE databases, it uses documents like what MongoDB does.
 
 ## Usage
 
