@@ -1,8 +1,6 @@
 <div align="center">
 
-  ![prismarinetitle](https://github.com/Azalea-Essentials/PrismarineDB/assets/122332042/4d9f66c7-206f-4a72-b3f7-40b1b296875a)
-
-  ![prismarinebg](https://github.com/Azalea-Essentials/PrismarineDB/assets/122332042/93478fd5-5446-4f9c-b3de-f4e99ebfd881)
+![repository-open-graph-template(3)(1)](https://github.com/Azalea-Essentials/PrismarineDB/assets/122332042/32ba8402-0c51-47ff-b2af-88d29519b8b5)
 
 </div
 
