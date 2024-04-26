@@ -42,3 +42,6 @@ let document = table.findFirst({
 
 ## Scripts using PrismarineDB
 - [Azalea Essentials](https://github.com/Azalea-Essentials/Azalea) by [Ant767](https://github.com/Ant767)
+
+> [!NOTE]
+> This project is not in any way related to [PrismarineJS](https://github.com/PrismarineJS/). It just has a similar name
